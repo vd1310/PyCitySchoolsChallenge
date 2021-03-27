@@ -12,7 +12,7 @@ The purpose of this project is to analze the school district and student files a
 ## Results: 
 
 #### 1. How is the district summary affected?
-##### The district summary results show slight drop in numbers as evident from below pictures. Average Math drops to 78.9
+##### The district summary results show slight drop in numbers as evident from below pictures. Average Math drops to 78.9, average raeding remains the same and there is slight drop in overall passign scores as well.
 
 ###### Changed summary results
 
