@@ -13,12 +13,14 @@ The purpose of this project is to analze the school district and student files a
 
 #### 1. How is the district summary affected?
 ##### The district summary results show slight drop in numbers as evident from below pictures
+
 ####### Changed summary results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/disctrict%20summary.png)
+
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/Changed%20summary.PNG)
 
 
 ####### Original summary results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/disctrict%20summary_old.PNG)
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/disctrict%20summary_old.PNG)
 
 
 #### 2. How is the school summary affected?
