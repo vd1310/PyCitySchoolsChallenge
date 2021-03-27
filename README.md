@@ -24,7 +24,7 @@ The purpose of this project is to analyze the school district and student files 
 
 
 #### 2. How is the school summary affected? 
-###### As we can see only Thomas High School are impacted and reduced slightly, refr to below images for comparison results:
+###### As we can see only Thomas High School are impacted and reduced, refer to below images for comparison results:
 
 ###### Changed school summary results
 
