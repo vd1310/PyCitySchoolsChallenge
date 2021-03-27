@@ -80,8 +80,12 @@ Scores of Thoams High School are reducesd, passing math & reading percentages ar
 ###### Original results by school type
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schooltypeold.PNG)
 
-###### d. Scores by school type
+###### d. Scores by school size; no impact:
 
+###### Changed results by school type
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/school_type_new.PNG)
 
+###### Original results by school type
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schooltypeold.PNG)
 
 ## Summary
