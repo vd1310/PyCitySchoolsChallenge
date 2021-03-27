@@ -47,12 +47,12 @@ The scores of Thomas High School dropped marginally. Overall passing also reduce
 
 #### 4. How does replacing the ninth-grade scores affect the following:
 
-##### a. Math and reading scores by grade
+#####   a. Math and reading scores by grade
 
-##### b. Scores by school spending
+#####   b. Scores by school spending
 
-##### c. Scores by school size
+#####   c. Scores by school size
 
-##### d. Scores by school type
+#####   d. Scores by school type
 
 ## Summary
