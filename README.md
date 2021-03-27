@@ -15,7 +15,9 @@ The purpose of this project is to analze the school district and student files a
 ##### The district summary results show slight drop in numbers as evident from below pictures
 ####### Changed summary results
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/disctrict%20summary.png)
-####### COriginal summary results
+
+
+####### Original summary results
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/disctrict%20summary_old.PNG)
 
 
