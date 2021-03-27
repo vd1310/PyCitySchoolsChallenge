@@ -10,11 +10,21 @@ The purpose of this project is to analze the school district and student files a
 
 
 ## Results: 
-###
-#### 1. 
-#####   
-#### 2. 
-#####	
 
+### 1. How is the district summary affected?
+####
+### 2. How is the school summary affected?
+
+### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+### 4. How does replacing the ninth-grade scores affect the following:
+
+### 5. Math and reading scores by grade
+
+### 6. Scores by school spending
+
+### 7. Scores by school size
+
+### 8. Scores by school type
 
 ## Summary
