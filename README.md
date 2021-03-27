@@ -12,7 +12,8 @@ The purpose of this project is to analze the school district and student files a
 ## Results: 
 
 #### 1. How is the district summary affected?
-##### Charter categort types have performed better compared to disctrict category schools. The average subject wise average scores as well as overall passing percentage was better in chater category
+##### The district summary results show slight drop in numbers as evident from below pictures
+
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/disctrict%20summary.png)
 
 
