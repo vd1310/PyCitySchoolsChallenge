@@ -48,7 +48,7 @@ The scores of Thomas High School dropped marginally. Overall passing also reduce
 #### 4. How does replacing the ninth-grade scores affect the following:
 
 ###### a. Math and reading scores by grade
-The scroes are alomost the same with slight drop in Thoams High School only:
+The scroes are almost the same with slight drop in Thomas High School only:
 
 ###### Changed Math results
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_new.PNG)
@@ -56,7 +56,11 @@ The scroes are alomost the same with slight drop in Thoams High School only:
 ###### Original Math results
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_old.PNG)
 
+###### Changed Reading results
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_new.PNG)
 
+###### Original Reading results
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_old.PNG)
 
 
 
