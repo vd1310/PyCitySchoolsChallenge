@@ -24,7 +24,7 @@ The purpose of this project is to analze the school district and student files a
 
 
 #### 2. How is the school summary affected? 
-###### As we can see only Thomas High School are impacted and reduced
+###### As we can see only Thomas High School are impacted and reduced slightly with ovaerll passign droped to 90.6 from 90.9, refr beloe fro comparison results
 
 ###### Changed school summary results
 
