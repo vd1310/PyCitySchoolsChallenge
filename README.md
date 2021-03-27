@@ -64,6 +64,13 @@ The scroes are almost the same with slight drop in Thomas High School only:
 
 
 ###### b. Scores by school spending
+Scores of Thoams High School are reduces, refer to below images:
+
+###### Changed spending results
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/school_spending_new.PNG)
+
+###### Original spending results
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schoolsummaryold.PNG)
 
 ###### c. Scores by school size
 
