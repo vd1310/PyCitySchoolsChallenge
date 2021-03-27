@@ -64,7 +64,7 @@ The scroes are almost the same with slight drop in Thomas High School only:
 
 
 ###### b. Scores by school spending
-Scores of Thoams High School are reducesd, passing math & reading percentages are reduced to 66 & 69 from 93 & 97, refer to below images:
+Scores of Thomas High School are reduced, passing math & reading percentages are reduced to 66 & 69 from 93 & 97, refer to below images:
 
 ###### Changed spending results
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/spending_new.PNG)
@@ -80,7 +80,7 @@ Scores of Thoams High School are reducesd, passing math & reading percentages ar
 ###### Original results by school type
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schooltypeold.PNG)
 
-###### d. Scores by school size; scores dropped slighly, refer below:
+###### d. Scores by school size; scores dropped slightly, refer below:
 
 ###### Changed results by school type
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/size_new.PNG)
@@ -89,3 +89,4 @@ Scores of Thoams High School are reducesd, passing math & reading percentages ar
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/size_old.PNG)
 
 ## Summary
+Replacing the math & reading scores of Thomas High School impacted average math and average reading scores thereby impacting the overall summary scores. This change also showed marginal drop in scores across grades, spending and school type
