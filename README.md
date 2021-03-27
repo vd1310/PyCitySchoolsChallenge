@@ -57,11 +57,10 @@ The scroes are almost the same with slight drop in Thomas High School only:
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_old.PNG)
 
 ###### Changed Reading results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_new.PNG)
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/Reading_bygrade_new.PNG)
 
 ###### Original Reading results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/math_by_grade_old.PNG)
-
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/Reading_bygrade_old.PNG)
 
 
 ###### b. Scores by school spending
