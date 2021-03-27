@@ -1,6 +1,6 @@
 # PyCitySchoolsChallenge
 ## Overview of Project
-The purpose of this project is to analze the school district and student files and check for school performance, subject scores and affect of spending on school perforamance.
+The purpose of this project is to analyze the school district and student files and check for school performance, subject scores and affect of spending on school performance.
 ### Purpose
 ###### Replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. 
 ###### Repeat the school district analysis in module 4
@@ -12,7 +12,7 @@ The purpose of this project is to analze the school district and student files a
 ## Results: 
 
 #### 1. How is the district summary affected?
-##### The district summary results show slight drop in numbers as evident from below pictures. Average Math drops to 78.9, average raeding remains the same and there is slight drop in overall passign scores as well.
+##### The district summary results show slight drop in numbers as evident from below pictures. Average Math drops to 78.9, average reading remains the same and there is slight drop in overall passing scores as well.
 
 ###### Changed summary results
 
@@ -36,7 +36,7 @@ The purpose of this project is to analze the school district and student files a
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schoolsummaryold.PNG)
 
 #### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-The scores of Thomas High School dropeed marginally. Overllall passing also reduced from 90.9 to 90.6. The beloe comparison shows the drop in the scores:
+The scores of Thomas High School dropped marginally. Overall passing also reduced from 90.9 to 90.6. The below comparison shows the drop in the scores:
 
 ###### Changed results
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/ths_new.PNG)
@@ -47,12 +47,12 @@ The scores of Thomas High School dropeed marginally. Overllall passing also redu
 
 #### 4. How does replacing the ninth-grade scores affect the following:
 
-#### 5. Math and reading scores by grade
+##### a. Math and reading scores by grade
 
-#### 6. Scores by school spending
+##### b. Scores by school spending
 
-#### 7. Scores by school size
+##### c. Scores by school size
 
-#### 8. Scores by school type
+##### d. Scores by school type
 
 ## Summary
