@@ -64,7 +64,7 @@ The scroes are almost the same with slight drop in Thomas High School only:
 
 
 ###### b. Scores by school spending
-Scores of Thoams High School are reduces, refer to below images:
+Scores of Thoams High School are reducesd, passing math & reading percentages are reduced to 66 & 69 from 93 & 97, refer to below images:
 
 ###### Changed spending results
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/school_spending_new.PNG)
