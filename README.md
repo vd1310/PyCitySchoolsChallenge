@@ -32,9 +32,18 @@ The purpose of this project is to analze the school district and student files a
 
 
 ###### Original school summary results
+
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schoolsummaryold.PNG)
 
 #### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+The scores of Thomas High School dropeed marginally. Overllall passing also reduced from 90.9 to 90.6. The beloe comparison shows the drop in the scores:
+
+###### Changed results
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/ths_new.PNG)
+
+###### Original results
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/ths_old.PNG)
+
 
 #### 4. How does replacing the ninth-grade scores affect the following:
 
