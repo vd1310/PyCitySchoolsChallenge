@@ -75,12 +75,10 @@ Scores of Thoams High School are reducesd, passing math & reading percentages ar
 ###### c. Scores by school size: Midsize schools are affected as the scores are dropped slightly.  Refer to below images:
 
 ###### Changed spending results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/school_spending_new.PNG)
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/spending_new.PNG)
 
 ###### Original spending results
-![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/school_spending_old.PNG)
-
-
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/spending%20old.PNG)
 
 ###### d. Scores by school type
 
