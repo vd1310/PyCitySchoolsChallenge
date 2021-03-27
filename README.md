@@ -12,7 +12,10 @@ The purpose of this project is to analze the school district and student files a
 ## Results: 
 
 #### 1. How is the district summary affected?
-#####
+##### Charter categort types have performed better compared to disctrict category schools. The average subject wise average scores as well as overall passing percentage was better in chater category
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/disctrict%20summary.png)
+
+
 #### 2. How is the school summary affected?
 
 #### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
