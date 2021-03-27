@@ -2,8 +2,6 @@
 ## Overview of Project
 
 ### Purpose
-.
-## Objective: 
 
 ## Results: 
 ###
