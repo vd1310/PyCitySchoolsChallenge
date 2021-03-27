@@ -23,7 +23,16 @@ The purpose of this project is to analze the school district and student files a
 ![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/disctrict%20summary_old.PNG)
 
 
-#### 2. How is the school summary affected?
+#### 2. How is the school summary affected? 
+###### As we can see only Thomas High School are impacted and reduced
+
+###### Changed school summary results
+
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schoolsummarynew.PNG)
+
+
+###### Original school summary results
+![alt text](https://github.com/vd1310/PyCitySchoolsChallenge/blob/main/Resources/schoolsummaryold.PNG)
 
 #### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
